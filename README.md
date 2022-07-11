@@ -1,1 +1,1 @@
-# transfering-img-to-different-folder-using-pythgob
+# transfering-img-to-different-folder-using-python
